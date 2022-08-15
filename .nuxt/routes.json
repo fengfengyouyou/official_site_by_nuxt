@@ -1,0 +1,14 @@
+[
+  {
+    "name": "chat",
+    "path": "/chat",
+    "component": "F:\\\\学习区域\\\\nuxt-officialSite\\\\pages\\\\chat\\\\index.vue",
+    "chunkName": "pages/chat/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "F:\\\\学习区域\\\\nuxt-officialSite\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
